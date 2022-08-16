@@ -11,6 +11,8 @@
   - Flex Box
   - Division of sections using flex box
   - Type of Selectors
+  - Responsive web
+  - Change in layouts based on media queries
   
   
 ### Development Efforts:- 6.50 hours
